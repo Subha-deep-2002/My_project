@@ -60,8 +60,6 @@ namex==0.0.9
 narwhals==1.30.0
 numpy==1.26.4
 openai==0.27.2
-opencv-contrib-python==4.11.0.86
-opencv-python==4.11.0.86
 opencv-python-headless==4.11.0.86
 opt_einsum==3.4.0
 optree==0.15.0
