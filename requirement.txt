@@ -1,0 +1,8 @@
+flask
+opencv-python-headless
+numpy
+dlib
+scipy
+imutils
+pygame
+gunicorn
